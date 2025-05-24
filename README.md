@@ -4,7 +4,7 @@ This is my personal frontend project portfolio built using just HTML and CSS. It
 
 ## Live Portfolio
 
-[https://YOUR_VERCEL_LINK_HERE](https://YOUR_VERCEL_LINK_HERE)
+[https://jbloch100-portfolio.vercel.app](https://portfolio-site-zeta-teal.vercel.app/)
 
 ## Projects Included
 
