@@ -33,7 +33,7 @@ This is my personal frontend project portfolio built using just HTML and CSS. It
   [Live Demo](https://mvp-habit-tracker.vercel.app/)  
   [GitHub](https://github.com/jbloch100/mvp-habit-tracker)
 
-- **Fetch Dog Adoption App**
+- **Fetch Dog Adoption App**  
   Dog adoption interface using Fetch’s public API. Includes login, filtering, favoriting, and dog matching. Built with React, TypeScript, Vite, and Material UI.
   [Live Demo](https://fetch-dog-adoption-app.vercel.app/)
   [GitHub](https://github.com/jbloch100/fetch-dog-adoption-app)
