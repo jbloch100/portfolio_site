@@ -45,10 +45,10 @@ Dog adoption app using Fetch’s public API.
 - **[Campaign Management SaaS](https://github.com/jbloch100/campaign-management-saas)**
 Full-stack campaign management backend with budgets, analytics, and REST APIs.
 
-- **[High Availability Chat System](https://github.com/jbloch100/high-availability-chat-system)**
+- **[High Availability Chat System](https://github.com/jbloch100/high-availability-chat)**
 Chat backend with multiple users and rooms, built for concurrency and reliability.
 
-- **[Real-Time Ad Bidding System](https://github.com/jbloch100/real-time-ad-bidding-system)**
+- **[Real-Time Ad Bidding System](https://github.com/jbloch100/real-time-ad-bidding)**
 Simulates ad bidding auctions using in-memory structures and event handling.
 
 ### C++
@@ -70,7 +70,7 @@ Microservice to extract/store/retrieve ML features.
 - **[Smart Log Analyzer](https://github.com/jbloch100/smart-log-analyzer)**
 Parses logs, detects anomalies, and reports system health.
 
-- **[Personalized Ad Recommendation Engine](https://github.com/jbloch100/personalized-ad-recommendation-engine)**
+- **[Personalized Ad Recommendation Engine](https://github.com/jbloch100/personalized-ad-recommendation)**
 Recommends ads based on user and campaign relevance.
 
 - **[Scalable Analytics Pipeline](https://github.com/jbloch100/scalable-analytics-pipeline)**
