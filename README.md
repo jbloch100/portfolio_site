@@ -24,7 +24,7 @@ Uses Context API and form input reuse.
 [GitHub](https://github.com/jbloch100/component-library)
 Mini design system: buttons, modals, cards.
 
-#### [E-commerce Frontend](https://ecommerce-frontend-tom-lovat.vercel.app)
+#### [E-commerce Frontend](https://ecommerce-frontend-ten-lovat.vercel.app)
 [GitHub](https://github.com/jbloch100/ecommerce-frontend)
 Implements realistic shopping cart flow.
 
